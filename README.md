@@ -1,5 +1,5 @@
 1. EXECUTIVE SUMMARY
-The following document f1presents the design and implementation of the producerconsumer
+The following document presents the design and implementation of the producerconsumer
 problem and provides a solution on a multi-process scenario. The producer
 and consumer are two different processes who share a buffer that acts as a queue. The
 producer has a task of adding the data into the buffer and the consumer holds the task of
